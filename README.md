@@ -145,4 +145,5 @@ Topics: `pyqt6`, `countdown-timer`, `scoreboard`, `robotics`, `competition`, `un
 
 ## License
 
-Choose what fits your use (MIT/Apache-2.0/Private…). If this repo is internal for the event, keeping it **Private** is totally fine.
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
