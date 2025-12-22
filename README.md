@@ -157,16 +157,6 @@ pyinstaller --noconsole --onefile \
 </p>
 <p align="center"><em>Left: Control Panel — set teams, time and scores. — Right: "Screen Select" dialog for choosing the target monitor.</em></p>
 
----
-
-## Suggested GitHub “About” description
-
-**PyQt6 countdown timer & scoring overlay for the UNETI Mini Robot Contest — Treasure Hunt 2025 (control panel + fullscreen display).**
-
-Topics: `pyqt6`, `countdown-timer`, `scoreboard`, `robotics`, `competition`, `uneti`, `fullscreen-display`, `multi-monitor`
-
----
-
 ## License
 
 
