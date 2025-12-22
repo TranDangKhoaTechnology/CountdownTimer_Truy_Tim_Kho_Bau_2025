@@ -133,6 +133,30 @@ pyinstaller --noconsole --onefile \
   main.py
 ```
 
+## Demo — Screenshots
+
+> These screenshots illustrate how the app looks: the CONTROL PANEL, the DISPLAY (fullscreen), and the Screen Select dialog.
+
+### DISPLAY (fullscreen)
+<p align="center">
+  <a href="assets/1.png">
+    <img src="assets/1.png" alt="DISPLAY fullscreen" width="1100" />
+  </a>
+</p>
+<p align="center"><em>DISPLAY (fullscreen) — large clock and scoreboard intended for projector output.</em></p>
+
+### Control panel & Screen Select
+<p align="center">
+  <a href="assets/3.png">
+    <img src="assets/3.png" alt="Control Panel" width="540" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="assets/2.png">
+    <img src="assets/2.png" alt="Screen Select dialog" width="540" />
+  </a>
+</p>
+<p align="center"><em>Left: Control Panel — set teams, time and scores. — Right: "Screen Select" dialog for choosing the target monitor.</em></p>
+
 ---
 
 ## Suggested GitHub “About” description
