@@ -1,7 +1,7 @@
-# CountdownTimer — Treasure Hunt 2025 ⏳🤖🏴‍☠️
+# CountdownTimer — Robot Truy Tìm Kho Báu 2025 ⏳🤖🏴‍☠️
 
-Một ứng dụng **PyQt6** được xây dựng cho **UNETI Mini Robot Contest**, do **Khoa Điện & Tự động hoá (UNETI)** tổ chức, dùng trong mini game **“Treasure Hunt 2025”**.  
-A **PyQt6** app built for the **UNETI Mini Robot Contest**, organized by the **Department of Electrical Engineering & Automation (UNETI)**, used in the mini game **“Treasure Hunt 2025”**.
+Một ứng dụng **PyQt6** được xây dựng cho **UNETI Mini Robot Contest**, do **Khoa Điện & Tự động hoá (UNETI)** tổ chức, dùng trong mini game **“Robot Truy Tìm Kho Báu 2025”**.  
+A **PyQt6** app built for the **UNETI Mini Robot Contest**, organized by the **Department of Electrical Engineering & Automation (UNETI)**, used in the mini game **“Robot Truy Tìm Kho Báu 2025”**.
 
 Ứng dụng bao gồm:  
 The app includes:
